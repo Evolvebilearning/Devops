@@ -4,6 +4,7 @@ Click on the icon below to get your digital ocean account.
 
 
 <b>Information</b>
+<p>
 This is a referral link. You will get a credit of $100 to be used over the next 60 days.
-
+<p>
 The referrer will get $25.
